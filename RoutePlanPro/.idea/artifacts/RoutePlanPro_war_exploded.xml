@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="RoutePlanPro:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/RoutePlanPro_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RoutePlanPro" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="RoutePlanPro/web/Web" />
+    </root>
+  </artifact>
+</component>
